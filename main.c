@@ -3,3 +3,7 @@ int main(void)
 {
 printf("efwf");
 }
+void delay(void)
+{
+while(t--);
+}
